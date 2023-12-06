@@ -1,0 +1,372 @@
+)]}'
+{
+  "id": "1557341ae9ad61437d529058a101e1953d28d221",
+  "entries": [
+    {
+      "mode": 40960,
+      "type": "blob",
+      "id": "1af4f51dd79a9722446d986554c14e3245158c8a",
+      "name": ".clang-format"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "f85d1dea4427037d869577094486ed3d47859bca",
+      "name": "Android.bp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "cde0cb28e24f3390f9aec3f3ba7f93e8f0ea7873",
+      "name": "Android.mk"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "f0a0e52d6731182150cce115cc76c7b122288cce",
+      "name": "LICENSE"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "3dec07e2d5951ead11581e73d5afa8de6c0a3a66",
+      "name": "OWNERS"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "6996d4a0024713cf53884985e05af214c720d3aa",
+      "name": "README.md"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "10f3d82b053e5478fda5ec68bea2ee9c21c4c6f5",
+      "name": "TEST_MAPPING"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "d2056aa41f1edc41b65cf675892e5b273605f5ad",
+      "name": "bootimg_utils.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "0eb003d2f57e7bd4d20f86b4d525e0ee0b7ec049",
+      "name": "bootimg_utils.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "a803307466da96316a55255682820d40d7c4f474",
+      "name": "constants.h"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "9e5cc04a2b5cc30a934e878831c21104468ec60b",
+      "name": "device"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "911071aee7c33a7009bc871c637ce73ae629870b",
+      "name": "fastboot.bash"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "ac2a20f90c80c311d2c20827d67658d3ffca418f",
+      "name": "fastboot.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "6a4997049cded0324cc18f84e8ef924b34998fb3",
+      "name": "fastboot.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "e5ef66bafe90c0a4f4b4d8040f6467be3763577c",
+      "name": "fastboot_driver.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "49cebd97a1c064594b33c3b90068ac1bcc3b3f5f",
+      "name": "fastboot_driver.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "7cb8a6b6acdfde66e73f0e737292e8d5f0a7c0c5",
+      "name": "fastboot_driver_interface.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "7c41d78a18392b08f229aab804d17d293233551e",
+      "name": "fastboot_driver_mock.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "d2033b0e208102442bf6fb55b8bccc09184d7db0",
+      "name": "fastboot_driver_test.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "ad14caba1ef0500c731b01145d80eb459bd72f83",
+      "name": "fastboot_integration_test.xml"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "1863e9570bfdd4985e5e02a7b5ba0275f622ce89",
+      "name": "fastboot_test.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "94fde8ed21ef0ef78c9f856092b9925f9751931e",
+      "name": "filesystem.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "c5f9c948d68fd8115dd17028b859d93a42bb0ddc",
+      "name": "filesystem.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "c8d1b59c9240241988a19ba3da315820702634cf",
+      "name": "fs.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "5ae473be53cc5dd0ee51c849664e364bb596e3d6",
+      "name": "fs.h"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "3c3ce2b9dd168b81727a1a0288aca093e37e5522",
+      "name": "fuzzer"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "67d5340cff812bebc2076572a9cde095fa9cc9aa",
+      "name": "fuzzy_fastboot"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "35f42189440c93650865450c13b76a30b6cd4fce",
+      "name": "main.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "cc3840ce7ccaa50de5296d85ec5b285ac07dca65",
+      "name": "mock_transport.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "dfa5e10677e3037a7ecf3f84059078754b5a33d2",
+      "name": "result.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "3096905a1b332a073fc364d1a0b15335a3e1af49",
+      "name": "socket.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "e791f2c8bb5e29d2480533f998be9da64a63bed3",
+      "name": "socket.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "2531b53ad2cfe56082438e076beaab2ff84e56cb",
+      "name": "socket_mock.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "6e95b16022164a71439b1288babe429065978741",
+      "name": "socket_mock.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "74ff377d3053833f099917110264025a27089eec",
+      "name": "socket_test.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "629ebc88eff71bb8864c468b8f1ff6ffbb80ade9",
+      "name": "storage.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "ae9d846e65b172623a43f93a30fbfdf6b3bc9a9d",
+      "name": "storage.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "b617ce8f24aa86c08723b1a7540c29ec01d5f678",
+      "name": "super_flash_helper.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "29c15d0ba5e297d9215d1b598d65bc97555e51df",
+      "name": "super_flash_helper.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "82b8aa59c3b464273bf110f902e2850d6bee2202",
+      "name": "super_flash_helper_test.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "0947ff90f85012e8013fb6bb57e86a210ee446b6",
+      "name": "task.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "a98c87419c526089c83ebd151d2b8074118fca84",
+      "name": "task.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "81154c68e1111d2f1903f59de1dc58e9a1fa8eec",
+      "name": "task_test.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "dca306f566636d67ce771d4ff36b3d6f6700f248",
+      "name": "tcp.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "8b638a418d7e7e38417b956fba6cad3de4231e00",
+      "name": "tcp.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "6e867ae85931644428f0489370f5ed01d489bf03",
+      "name": "tcp_test.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "adcaec7694f9dfcf483697eee63049819748f2b8",
+      "name": "test_fastboot.py"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "a4eca567f3405023ed0fb59bc912d7999f8f7fd9",
+      "name": "testdata"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "de0cc927227f13548691d893993180466f97e480",
+      "name": "transport.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "308c96c05b8622fff937b85df06be8b13226c1d5",
+      "name": "udp.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "8d37b841d214ccd25883135596610d5066af6f6c",
+      "name": "udp.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "ff8cf0fc836621801d4f27b846463cbd5f64829e",
+      "name": "udp_test.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "d85cb81868ec622d62d0251ebb6785a1f9375cf7",
+      "name": "usb.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "37bb304ea12718883a8022172f9cc99b816c35fd",
+      "name": "usb_linux.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "28300b2e1808c4820ace5f510bdedeac4b7f4f24",
+      "name": "usb_osx.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "56a6e7d0e70dca6727d2c3415c298d72a7176b86",
+      "name": "usb_windows.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "e03012a058aada7fd5b3f7c94aa8708f589fd1d3",
+      "name": "util.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "fdbc1d699b97bf469daafd634dcd0203ec358fcb",
+      "name": "util.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "9f05253c086dcbc8eba2e246418e697e294ff925",
+      "name": "vendor_boot_img_utils.cpp"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "0b702bc4dd4b8be53a9eb8d1a3d4683c436dd98b",
+      "name": "vendor_boot_img_utils.h"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "467c6e9d9b7de43a4e32bf06d61b2a0a69f4010c",
+      "name": "vendor_boot_img_utils_test.cpp"
+    }
+  ]
+}
